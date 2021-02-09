@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Jesus Jimenez.
-Estudiante 2: Juan camilo Bonet.
+Estudiante 1: Jesus Jimenez - j.jimenez21@uniandes.edu.co - 202020431
+Estudiante 2: Juan Camilo Bonet - j.bonet@uniandes.edu.co - 202022466
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 

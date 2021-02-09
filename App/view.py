@@ -36,7 +36,6 @@ Presenta el menu de opciones  y  por cada seleccion
 se hace la solicitud al controlador para ejecutar la
 operación solicitada
 """
-#prueba
 
 def printMenu():
     print("Opciones:")
@@ -78,7 +77,6 @@ while True:
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         print('Primer libro cargado: ' + str(lt.firstElement(books)))
-
 
         # TO-DO: Modificación de Est-2 en el Lab 2
         print('Último libro cargado: ' + str(lt.lastElement(books)))
